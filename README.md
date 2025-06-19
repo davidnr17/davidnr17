@@ -19,7 +19,7 @@
 
 
 
-## Keep in touch with me 😊
+## Puedes encontrarme aquí:
 
 <a href="https://www.instagram.com/dxvid.nr/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -28,15 +28,6 @@
 <br />
 <br />
 
-## StreakStats 🚀
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Schleidens&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
------
-<br />
-
-
-Credit: [Schleidens.Dev](https://github.com/Schleidens)
-
-Last Edited on: 27/11/2022
+Last Edited on: 17/06/2025
